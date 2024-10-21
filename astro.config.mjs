@@ -4,7 +4,10 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-  output: 'hybrid',
-  experimental: { contentLayer: true }
+    site: 'https://Newman5.github.io/photocloud/',
+    output: 'static',
+    experimental: { contentLayer: true }
 });
 
+
+//output: 'static',
