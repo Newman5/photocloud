@@ -16,3 +16,4 @@ https://astro.cloudinary.dev/
 - https://astro.cloudinary.dev/cldassetsloader/basic-usage
 
 
+https://www.npmjs.com/package/gh-pages
